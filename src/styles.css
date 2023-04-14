@@ -8,7 +8,11 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background: url(assets/Images/pexels-bruno-thethe-1910225.jpg);
 }
+
+
+
 
 .container {
   max-width: 500px;

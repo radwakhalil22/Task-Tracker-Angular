@@ -1,0 +1,13 @@
+footer{
+  margin-top: 100px;
+  max-width: 30px;
+  text-align: center;
+  display: flex;
+  gap: 20px;
+  transform: translate(150px);
+}
+
+a{
+  /* text-decoration: none; */
+  color: white;;
+}

@@ -1,3 +1,10 @@
 .add-form{
   margin-bottom: 40px;
 }
+label{
+  color: white;
+}
+
+#reminder{
+  transform: translateX(-160px);
+}
