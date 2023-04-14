@@ -1,27 +1,69 @@
-# Test
+# Angular Task Tracker
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+This is an Angular application that allows you to track your tasks and set reminders for them. The application fetches the task data from a JSON server.
 
-## Development server
+## Getting Started
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+To get started with this application, you'll need to follow these steps:
 
-## Code scaffolding
+1. Clone this repository to your local machine.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+2. Install the required dependencies by running the following command in the terminal:
+```
+npm install
+```
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+3. Start the JSON server by running the following command in the terminal:
+```
+npm i json-server
+npm run server to run json
+```
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+4. Start the Angular application by running the following command in another terminal window:
+```
+ng s -o
+```
 
-## Running end-to-end tests
+This command will start the development server and open your default browser to `http://localhost:4200/`.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Features
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This application includes the following features:
+
+- Add tasks to the task list
+- Delete tasks from the task list
+- Set reminders for tasks
+- Toggle the reminder status of tasks
+- Fetch task data from a JSON server
+
+## Technologies
+
+This application was built using the following technologies:
+
+- Angular
+- TypeScript
+- JSON Server
+
+## Demo
+
+## Acknowledgements
+
+This application was created as part of a tutorial on building an Angular task tracker. Thanks to John Smilga for the tutorial.
+
+## Contributing
+
+If you'd like to contribute to this project, please follow these steps:
+
+1. Fork this repository to your own account.
+
+2. Create a branch for your changes.
+
+3. Make your changes and commit them.
+
+4. Push your changes to your branch.
+
+5. Create a pull request to this repository with a description of your changes.
+
