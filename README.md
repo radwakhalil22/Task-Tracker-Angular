@@ -17,7 +17,7 @@ npm install
 3. Start the JSON server by running the following command in the terminal:
 ```
 npm i json-server
-npm run server to run json
+npm run server
 ```
 
 
