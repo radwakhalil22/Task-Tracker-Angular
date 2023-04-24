@@ -54,10 +54,6 @@ This application was built using the following technologies:
 https://user-images.githubusercontent.com/95037451/233888179-19110d2f-9287-4b40-af71-cc8794064955.mp4
 
 
-## Acknowledgements
-
-This application was created as part of a tutorial on building an Angular task tracker. Thanks to John Smilga for the tutorial.
-
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
