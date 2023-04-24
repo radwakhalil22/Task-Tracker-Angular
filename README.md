@@ -33,11 +33,12 @@ This command will start the development server and open your default browser to 
 
 This application includes the following features:
 
-- Add tasks to the task list
-- Delete tasks from the task list
-- Set reminders for tasks
-- Toggle the reminder status of tasks
-- Fetch task data from a JSON server
+- Add tasks to the task list.
+- Delete tasks from the task list.
+- Set reminders for tasks.
+- Toggle the reminder status of tasks.
+- Fetch task data from a JSON server.
+- A stopwatch to track the time spent on each task.
 
 ## Technologies
 
