@@ -49,7 +49,9 @@ This application was built using the following technologies:
 
 ## Demo
 
-https://user-images.githubusercontent.com/95037451/232162207-a19562de-f9ac-4fcb-9166-e2f0f4b02a6f.mp4
+
+https://user-images.githubusercontent.com/95037451/233888179-19110d2f-9287-4b40-af71-cc8794064955.mp4
+
 
 ## Acknowledgements
 
